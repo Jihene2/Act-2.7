@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+button {
+  background: #4584ef;
+    border: none;
+    outline: none;
+    padding: 8px 14px;
+    color:#fff;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.add {
+  background: #4584ef;
+    border: none;
+    outline: none;
+    padding: 8px 14px;
+    color:#fff;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+h1 {
+  font-family: arial;
+  color: #4584ef
+}
